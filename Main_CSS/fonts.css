@@ -1,0 +1,46 @@
+@font-face{
+    font-family: Abel;
+    src: url('../fonts/Abel/Abel-Regular.ttf');
+}
+@font-face{
+    font-family: Anton;
+    src: url('../fonts/Anton/Anton-Regular.ttf');
+}
+@font-face{
+    font-family: Josefin;
+    src: url('../fonts/Josefin_Sans/JosefinSans-VariableFont_wght.ttf');
+
+}
+@font-face{
+    font-family: lexend;
+    src: url('../fonts/Lexend_Deca/LexendDeca-VariableFont_wght.ttf');
+
+}
+@font-face{
+    font-family: livvic;
+    src: url('../fonts/livvic/Livvic-Regular.ttf');
+}
+@font-face{
+    font-family: oxygen;
+    src: url('../fonts/Oxygen/Oxygen-Regular.ttf');
+}
+@font-face{
+    font-family: Roboto;
+    src: url('../fonts/Roboto/Roboto-Regular.ttf');
+}
+@font-face{
+    font-family: Oswald;
+    src: url('../fonts/Oswald/Oswald-VariableFont_wght.ttf');
+}
+@font-face{
+    font-family: poppins;
+    src: url('../fonts/Poppins/Poppins-Regular.ttf');
+}
+@font-face{
+    font-family: worksans;
+    src: url('../fonts/Work_Sans/WorkSans-Italic-VariableFont_wght.ttf');
+}
+@font-face{
+    font-family: baloobhai2;
+    src: url('../fonts/Baloo_Bhai_2/BalooBhai2-Regular.ttf');
+}
